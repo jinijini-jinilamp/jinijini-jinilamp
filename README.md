@@ -1,15 +1,10 @@
-### Hi there 👋
-
-likelion Repository
-Repository Content
-JavaScript Basic Sample Code
-References : https://www.w3schools.com/js
-소스코드
-파일명	code(.html)	설명
-01_01.html	01_01.html	첫 자바스크립트 만들기
-01_02.html	01_02.html	alert()함수를 이용한 경고 메세지 출력
+### Hi there😊
+-----------------------------
+#### I'm 
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
 <!--
 **jinijini-jinilamp/jinijini-jinilamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
