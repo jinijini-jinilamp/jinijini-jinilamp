@@ -5,8 +5,8 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojin&layout=compact)
-####
-<a href="mailto:YourEmail@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+#### How to reach me
+<a href="mailto:jinilamp.hj@gmail.com">![jinilamp.hj@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <!--
 **jinijini-jinilamp/jinijini-jinilamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
