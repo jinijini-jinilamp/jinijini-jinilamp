@@ -1,10 +1,7 @@
 ### Hi there👏
-------
-#####
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojin&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojin&layout=compact) -->
 #### How to reach me
 <a href="mailto:jinilamp.hj@gmail.com">![jinilamp.hj@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <!--
